@@ -3,3 +3,4 @@ Vechicles:
 >Bus
 >Bike
 >truck
+>flight
