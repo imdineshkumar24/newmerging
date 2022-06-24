@@ -2,3 +2,4 @@ Vechicles:
 >Car
 >Bus
 >Bike
+>truck
